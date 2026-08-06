@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá, eu sou Keeylbe Santos
 
-<!--
-**KeeylbeFerreira/KeeylbeFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor | Java
 
-Here are some ideas to get you started:
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou aprofundando meus conhecimentos em **Java**, com foco em desenvolvimento de software e criação de projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+
+- ☕ Java
+- ⚙️ C
+- 🌐 HTML
+- 🎨 CSS
+- 🔧 Git & GitHub
