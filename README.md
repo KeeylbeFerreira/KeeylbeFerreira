@@ -12,7 +12,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou apr
 - 🎨 CSS
 - 🔧 Git & GitHub
 - 
-### 🐍 Minhas contribuições
+<h3>🐍 Minhas contribuições</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KeeylbeFerreira/KeeylbeFerreira/output/github-contribution-grid-snake.svg" />
